@@ -9,7 +9,7 @@ env:
   LOCATION: uksouth
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 11f23e98-9d6f-4227-9845-86e37a64e746
-  WEBAPP-NAME: eshoponweb-webapp-AZ400
+  WEBAPP-NAME: eshoponweb-webapp-alphad70
 
 
 jobs:
